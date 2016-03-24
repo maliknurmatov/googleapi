@@ -4,6 +4,6 @@
  * Under construction
  */
 
-module.exports = {
+module.exports = function(){
   console.log('module under construction');
 };
